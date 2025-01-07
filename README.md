@@ -1,2 +1,5 @@
-# csd-380
-repository for csd-380 
+# CSD 380 DevOps
+
+## Contributors
+- Mikaila Steinbrugge
+- Nathan Braun
